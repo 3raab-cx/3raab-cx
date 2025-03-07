@@ -22,7 +22,7 @@ With expertise in reverse engineering, bug bounty hunting, and malware analysis,
 
 ### 🛠️ **SecroKit**  
 **Description**: A toolkit for generating CMD-based exploits to penetrate systems effectively.  
-- **Purchase**: [Contact on Telegram](https://t.me/al3rab1235)  
+- **Purchase**: [Contact on Telegram](https://t.me/EI3RAB)  
 
 ---
 
